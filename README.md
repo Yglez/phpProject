@@ -1,2 +1,2 @@
 # phpProject
-freshing up on my php and MySQL 
+Editing my php and MySQL 
